@@ -1,0 +1,15 @@
+C:\Users\gabriel.trevizoli\source\repos\poc_CellPhoneValidator\poc_CellPhoneValidator\bin\Debug\net6.0\poc_CellPhoneValidator.exe
+C:\Users\gabriel.trevizoli\source\repos\poc_CellPhoneValidator\poc_CellPhoneValidator\bin\Debug\net6.0\poc_CellPhoneValidator.deps.json
+C:\Users\gabriel.trevizoli\source\repos\poc_CellPhoneValidator\poc_CellPhoneValidator\bin\Debug\net6.0\poc_CellPhoneValidator.runtimeconfig.json
+C:\Users\gabriel.trevizoli\source\repos\poc_CellPhoneValidator\poc_CellPhoneValidator\bin\Debug\net6.0\poc_CellPhoneValidator.dll
+C:\Users\gabriel.trevizoli\source\repos\poc_CellPhoneValidator\poc_CellPhoneValidator\bin\Debug\net6.0\poc_CellPhoneValidator.pdb
+C:\Users\gabriel.trevizoli\source\repos\poc_CellPhoneValidator\poc_CellPhoneValidator\obj\Debug\net6.0\poc_CellPhoneValidator.csproj.AssemblyReference.cache
+C:\Users\gabriel.trevizoli\source\repos\poc_CellPhoneValidator\poc_CellPhoneValidator\obj\Debug\net6.0\poc_CellPhoneValidator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.trevizoli\source\repos\poc_CellPhoneValidator\poc_CellPhoneValidator\obj\Debug\net6.0\poc_CellPhoneValidator.AssemblyInfoInputs.cache
+C:\Users\gabriel.trevizoli\source\repos\poc_CellPhoneValidator\poc_CellPhoneValidator\obj\Debug\net6.0\poc_CellPhoneValidator.AssemblyInfo.cs
+C:\Users\gabriel.trevizoli\source\repos\poc_CellPhoneValidator\poc_CellPhoneValidator\obj\Debug\net6.0\poc_CellPhoneValidator.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.trevizoli\source\repos\poc_CellPhoneValidator\poc_CellPhoneValidator\obj\Debug\net6.0\poc_CellPhoneValidator.dll
+C:\Users\gabriel.trevizoli\source\repos\poc_CellPhoneValidator\poc_CellPhoneValidator\obj\Debug\net6.0\refint\poc_CellPhoneValidator.dll
+C:\Users\gabriel.trevizoli\source\repos\poc_CellPhoneValidator\poc_CellPhoneValidator\obj\Debug\net6.0\poc_CellPhoneValidator.pdb
+C:\Users\gabriel.trevizoli\source\repos\poc_CellPhoneValidator\poc_CellPhoneValidator\obj\Debug\net6.0\poc_CellPhoneValidator.genruntimeconfig.cache
+C:\Users\gabriel.trevizoli\source\repos\poc_CellPhoneValidator\poc_CellPhoneValidator\obj\Debug\net6.0\ref\poc_CellPhoneValidator.dll
